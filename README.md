@@ -3,7 +3,6 @@ The Natural Language Inference in Turkish (NLI-TR) is a set of two large scale d
 
 The characteristics of the datasets can be reviewed in [the arXiv paper](https://arxiv.org/abs/2004.14963) and the details of the NLI task can be reviewed in [the lectures videos of CS224U](https://www.youtube.com/watch?v=M_VPUF9ResU&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20&index=8 "Lectures – NLI | Stanford CS224U: Natural Language Understanding | Spring 2019").  
 
-
 ## 📜 SNLI-TR
 The [SNLI-TR 1.0 corpus (~21MB, zip)](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.0.zip "The Turkish Translation of The Stanford Natural Language Inference (SNLI) Corpus") is the Turkish translation (NMT) of the original [SNLI 1.0 corpus (~100MB, zip)](https://nlp.stanford.edu/projects/snli/snli_1.0.zip "The Stanford Natural Language Inference (SNLI) Corpus").  
 
@@ -103,7 +102,7 @@ Use of Machine Translation to Obtain Labeled Datasets for Resource-Constrained L
     Eprint = {arXiv:2004.14963},
 }
 ```
- 
+
 ## ❤ Acknowledgment 
 
 This research was supported by the _AWS Cloud Credits for Research Program (formerly AWS Research Grants)_. We thank _Alara Dirik, Almira Bağlar, Berfu Buyüköz, Berna Erden, Fatih Mehmet Güler, Gökçe Uludoğan, Gözde Aslantaş, Havva Yüksel, Melih Barsbey, Melike Esma İlter, Murat Karademir, Selen Parlar, Utku Yavuz_ for 
@@ -113,3 +112,9 @@ their annotation support and vital contributions. We are grateful also to _Stefa
 
 Please feel free to contact [Emrah Budur](mailto:emrah.budur@boun.edu.tr) and 
 [Rıza Özçelik](mailto:riza.ozcelik@boun.edu.tr) for any questions, comments and feedbacks.
+
+## 📢 Announcements
+
+🎯 (2020-06-01) A new version of our work entitled as _"Data and Representation for Turkish Natural Language Inference"_ was submitted to [EMNLP 2020](https://2020.emnlp.org). 
+
+🐣 (2020-09-14) Our paper has been accepted as a long paper at [EMNLP 2020](https://2020.emnlp.org) 🙂 Grateful to everyone who supported our work along the way 🤗 
