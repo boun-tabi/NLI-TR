@@ -4,7 +4,7 @@ The Natural Language Inference in Turkish (NLI-TR) is a set of two large scale d
 The characteristics of the datasets can be reviewed in [the arXiv paper](https://arxiv.org/abs/2004.14963) and the details of the NLI task can be reviewed in [the lectures videos of CS224U](https://www.youtube.com/watch?v=M_VPUF9ResU&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20&index=8 "Lectures – NLI | Stanford CS224U: Natural Language Understanding | Spring 2019").  
 
 ## 📜 SNLI-TR
-The [SNLI-TR 1.0 corpus (~21MB, zip)](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.0.zip "The Turkish Translation of The Stanford Natural Language Inference (SNLI) Corpus") is the Turkish translation (NMT) of the original [SNLI 1.0 corpus (~100MB, zip)](https://nlp.stanford.edu/projects/snli/snli_1.0.zip "The Stanford Natural Language Inference (SNLI) Corpus").  
+The [SNLI-TR 1.0 corpus (~44MB, zip)](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.0.zip "The Turkish Translation of The Stanford Natural Language Inference (SNLI) Corpus") is the Turkish translation (NMT) of the original [SNLI 1.0 corpus (~100MB, zip)](https://nlp.stanford.edu/projects/snli/snli_1.0.zip "The Stanford Natural Language Inference (SNLI) Corpus").  
 
 An example from SNLI:
 <pre>
@@ -47,7 +47,7 @@ SNLI-TR licensed under the same terms as SNLI which is [Creative Commons Attribu
 ***
 
 ## 📜 MNLI-TR
-The [MNLI-TR 1.0 corpus (~36MB, zip)](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/mnli_tr_1.0.zip "The Turkish Translation of The Multi-Genre NLI Corpus") is the Turkish translation (NMT) of the original [MNLI 1.0 corpus (~216MB, zip)](https://www.nyu.edu/projects/bowman/multinli/multinli_1.0.zip "The Multi-Genre NLI Corpus").   
+The [MNLI-TR 1.0 corpus (~41MB, zip)](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.0.zip "The Turkish Translation of The Multi-Genre NLI Corpus") is the Turkish translation (NMT) of the original [MNLI 1.0 corpus (~216MB, zip)](https://www.nyu.edu/projects/bowman/multinli/multinli_1.0.zip "The Multi-Genre NLI Corpus").   
 
 An example from MNLI:
 
