@@ -105,8 +105,8 @@ Use of Machine Translation to Obtain Labeled Datasets for Resource-Constrained L
 
 ## ❤ Acknowledgment 
 
-This research was supported by the _AWS Cloud Credits for Research Program (formerly AWS Research Grants)_. We thank _Alara Dirik, Almira Bağlar, Berfu Buyüköz, Berna Erden, Fatih Mehmet Güler, Gökçe Uludoğan, Gözde Aslantaş, Havva Yüksel, Melih Barsbey, Melike Esma İlter, Murat Karademir, Selen Parlar, Utku Yavuz_ for 
-their annotation support and vital contributions. We are grateful also to _Stefan Schweter_ and _Kemal Oflazer_ for sharing the dataset that BERTurk was trained on, and _Omar Khattab_ from Stanford NLP Lab for valuable advice and discussion.
+This research was supported by the _AWS Cloud Credits for Research Program (formerly AWS Research Grants)_. We thank _Alara Dirik, Almira Bağlar, Berfu Buyüköz, Berna Erden, Fatih Mehmet Güler, Gökçe Uludoğan, Gözde Aslantaş, Havva Yüksel, Melih Barsbey, Melike Esma İlter, Murat Karademir, Ramazan Pala, Selen Parlar, Tuğçe Ulutuğ, Utku Yavuz_ for 
+their annotation support and vital contributions. We are grateful also to _Stefan Schweter_ and _Kemal Oflazer_ for sharing the dataset that BERTurk was trained on, and _Omar Khattab_, _Dallas Card_, _Yiwei Luo_, and many other distinguished researchers from Stanford NLP Lab for their valuable advice and discussion, also the anonymous reviewers for their insightful comments and feedbacks.
 
 ## 📧 Contact 
 
