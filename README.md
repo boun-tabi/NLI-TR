@@ -47,7 +47,7 @@ SNLI-TR licensed under the same terms as SNLI which is [Creative Commons Attribu
 ***
 
 ## 📜 MultiNLI-TR
-The [MultiNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.0.zip "The Turkish Translation of The Multi-Genre NLI Corpus") and [MultiNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.1.zip "The Turkish Translation of The Multi-Genre NLI Corpus") (~41MB, zip) are the Turkish translation (NMT) of the original [MultiNLI 1.0](https://www.nyu.edu/projects/bowman/multinli/multinli_1.0.zip "The Multi-Genre NLI Corpus") corpus (~216MB, zip). The only difference between the version 1.0 and 1.1 is that the latter includes an additional key field (`translation_annotations`) containing the evaluations of translations for some of the examples.   
+The [MultiNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.0.zip "The Turkish Translation of The Multi-Genre NLI Corpus") and [MultiNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.1.zip "The Turkish Translation of The Multi-Genre NLI Corpus") (~41MB, zip) are the Turkish translation (NMT) of the original [MultiNLI 1.0](https://cims.nyu.edu/~sbowman/multinli/multinli_1.0.zip "The Multi-Genre NLI Corpus") corpus (~216MB, zip). The only difference between the version 1.0 and 1.1 is that the latter includes an additional key field (`translation_annotations`) containing the evaluations of translations for some of the examples.   
 
 An example from MultiNLI:
 
