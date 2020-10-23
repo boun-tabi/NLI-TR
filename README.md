@@ -92,12 +92,12 @@ MultiNLI-TR is licensed under the same terms as MultiNLI which is described in t
 ## ✒ Citation 
 
 >[Emrah Budur](https://scholar.google.com/citations?user=zSNd03UAAAAJ), [Rıza Özçelik](https://www.cmpe.boun.edu.tr/~riza.ozcelik), [Tunga Güngör](https://www.cmpe.boun.edu.tr/~gungort/)  and [Christopher Potts](https://web.stanford.edu/~cgpotts). 2020. 
-Use of Machine Translation to Obtain Labeled Datasets for Resource-Constrained Languages.. arXiv preprint arXiv:2004.14963. [[pdf]](https://arxiv.org/abs/2004.14963) [[bib]](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/nli-tr.bib)
+Data and Representation for Turkish Natural Language Inference. arXiv preprint arXiv:2004.14963. [[pdf]](https://arxiv.org/abs/2004.14963) [[bib]](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/nli-tr.bib)
 
 ```
 @article{NLI-TR-2020-arXiv-2004.14963,
     Author = {Emrah Budur and R{\i}za \"{O}z\c{c}elik and Tunga G\"{u}ng\"{o}r and Christopher Potts},
-    Title = {Use of Machine Translation to Obtain Labeled Datasets for Resource-Constrained Languages},
+    Title = {Data and Representation for Turkish Natural Language Inference},
     Year = {2020},
     Eprint = {arXiv:2004.14963},
 }
