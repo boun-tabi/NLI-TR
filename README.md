@@ -88,7 +88,65 @@ The corresponding Turkish translation in MultiNLI-TR:
  #### 🏷 MultiNLI-TR License
  
 MultiNLI-TR is licensed under the same terms as MultiNLI which is described in the [MultiNLI paper](https://www.nyu.edu/projects/bowman/multinli/paper.pdf). 
+
+
+## ✔ Annotations
+
+We included the annotations for the annotated examples inside the `translation_annotations` key field as shown with an example from SNLI-TR.
+
+<pre>
+{
+        "annotator_labels": [
+            "entailment"
+        ],
+        "captionID": "6925887658.jpg#3",
+        "gold_label": "entailment",
+        "pairID": "6925887658.jpg#3r1e",
+        "sentence1": "İki futbolcu topu almak için yarışıyor.",
+        "sentence2": "İki futbolcu bir futbol maçında oynuyor",
+        "translation_annotations": {
+            "annotator_ids": [
+                1,2,5,8,10
+            ],
+            "annotator_labels": [
+                "entailment","entailment","entailment","entailment","entailment"
+            ],
+            "translation_scores": [
+                5,5,4,5,5
+            ],
+            "gold_label": "entailment"
+        }
+}
+</pre>
+
+The descriptions of the keys inside `translation_annotations` are listed below.
  
+* `annotator_ids`: The numeric identifiers of the annotators who annotated this pair (and all other related pairs of its caption/prompt).
+* `annotator_labels`: The NLI labels of the translated sentences including the label `"broken"` for the examples having major translation errors.
+* `translation_scores`: The quality scores of the translations in a Lickert ordinal scale [1-5].
+* `gold_label`: The majority-level label of the annotations which include the label `"broken"` for the pairs which have either major translation error or no majority-level label.
+
+The corresponding pair in the SNLI dataset for comparison.
+
+<pre>
+{
+   "annotator_labels":[
+      "entailment"
+   ],
+   "captionID":"6925887658.jpg#3",
+   "gold_label":"entailment",
+   "pairID":"6925887658.jpg#3r1e",
+   "sentence1":"Two soccer players are vying for the ball.",
+   "sentence1_binary_parse":"( ( Two ( soccer players ) ) ( ( are ( vying ( for ( the ball ) ) ) ) . ) )",
+   "sentence1_parse":"(ROOT (S (NP (CD Two) (NN soccer) (NNS players)) (VP (VBP are) (VP (VBG vying) (PP (IN for) (NP (DT the) (NN ball))))) (. .)))",
+   "sentence2":"Two soccer players are playing in a soccer match",
+   "sentence2_binary_parse":"( ( Two ( soccer players ) ) ( are ( playing ( in ( a ( soccer match ) ) ) ) ) )",
+   "sentence2_parse":"(ROOT (S (NP (CD Two) (NN soccer) (NNS players)) (VP (VBP are) (VP (VBG playing) (PP (IN in) (NP (DT a) (NN soccer) (NN match)))))))"
+} 
+</pre>
+
+
+
 ## ✒ Citation 
 
 >[Emrah Budur](https://scholar.google.com/citations?user=zSNd03UAAAAJ), [Rıza Özçelik](https://www.cmpe.boun.edu.tr/~riza.ozcelik), [Tunga Güngör](https://www.cmpe.boun.edu.tr/~gungort/)  and [Christopher Potts](https://web.stanford.edu/~cgpotts). 2020. 
