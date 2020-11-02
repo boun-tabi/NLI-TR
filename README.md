@@ -146,6 +146,10 @@ The corresponding pair in the SNLI dataset for comparison.
 </pre>
 
 
+## 🔬 Reproducibility 
+
+You can find all code, models and samples of the input data [here](https://drive.google.com/drive/folders/1Wo4XzYzVOWDFwFvnfDBzYoNGXYsV_xcz?usp=sharing).  Please feel free to reach out to us if you have any specific questions. 
+
 
 ## ✒ Citation 
 
