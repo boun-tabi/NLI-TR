@@ -4,7 +4,7 @@ The Natural Language Inference in Turkish (NLI-TR) is a set of two large scale d
 The characteristics of the datasets can be reviewed in [here](https://arxiv.org/abs/2004.14963) and the details of the NLI task can be reviewed in [the lectures videos of CS224U](https://www.youtube.com/watch?v=M_VPUF9ResU&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20&index=8 "Lectures – NLI | Stanford CS224U: Natural Language Understanding | Spring 2019").  
 
 ## 📜 SNLI-TR
-The [SNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.0.zip "The Turkish Translation of The Stanford Natural Language Inference (SNLI) Corpus") and [SNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.1.zip "The Turkish Translation of The Stanford Natural Language Inference (SNLI) Corpus") (~44MB, zip) are the Turkish translation (NMT) of the original [SNLI 1.0](https://nlp.stanford.edu/projects/snli/snli_1.0.zip "The Stanford Natural Language Inference (SNLI) Corpus") (~100MB, zip).  The only difference between the version 1.0 and 1.1 is that the latter includes and additional key field (`translation_annotations`) containing the evaluations of translations for some of the examples.
+The [SNLI-TR 1.0](#-download-nli-tr) and [SNLI-TR 1.1](#-download-nli-tr) (~44MB, zip)  are the Turkish translation (NMT) of the original [SNLI 1.0](https://nlp.stanford.edu/projects/snli/snli_1.0.zip "The Stanford Natural Language Inference (SNLI) Corpus") (~100MB, zip).  The only difference between the version 1.0 and 1.1 is that the latter includes and additional key field (`translation_annotations`) containing the evaluations of translations for some of the examples.
 
 An example from SNLI:
 <pre>
@@ -47,7 +47,7 @@ SNLI-TR licensed under the same terms as SNLI which is [Creative Commons Attribu
 ***
 
 ## 📜 MultiNLI-TR
-The [MultiNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.0.zip "The Turkish Translation of The Multi-Genre NLI Corpus") and [MultiNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.1.zip "The Turkish Translation of The Multi-Genre NLI Corpus") (~41MB, zip) are the Turkish translation (NMT) of the original [MultiNLI 1.0](https://cims.nyu.edu/~sbowman/multinli/multinli_1.0.zip "The Multi-Genre NLI Corpus") corpus (~216MB, zip). The only difference between the version 1.0 and 1.1 is that the latter includes an additional key field (`translation_annotations`) containing the evaluations of translations for some of the examples.   
+The [MultiNLI-TR 1.0](#-download-nli-tr) and [MultiNLI-TR 1.1](#-download-nli-tr) (~72MB, zip) are the Turkish translation (NMT) of the original [MultiNLI 1.0](https://cims.nyu.edu/~sbowman/multinli/multinli_1.0.zip "The Multi-Genre NLI Corpus") corpus (~216MB, zip). The only difference between the version 1.0 and 1.1 is that the latter includes an additional key field (`translation_annotations`) containing the evaluations of translations for some of the examples.   
 
 An example from MultiNLI:
 
@@ -90,7 +90,7 @@ The corresponding Turkish translation in MultiNLI-TR:
 MultiNLI-TR is licensed under the same terms as MultiNLI which is described in the [MultiNLI paper](https://www.nyu.edu/projects/bowman/multinli/paper.pdf). 
 
 
-## ✔ Annotations
+## :heavy_check_mark: Annotations
 
 We included the annotations for the annotated examples inside the `translation_annotations` key field as shown with an example from SNLI-TR.
 
@@ -146,7 +146,18 @@ The corresponding pair in the SNLI dataset for comparison.
 </pre>
 
 
-## 🔬 Reproducibility 
+## 📚 Resources 
+
+### 📖 Download NLI-TR
+
+#### 🔗 Links
+* [SNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.0.zip "The Turkish Translation of The Stanford Natural Language Inference (SNLI) Corpus") and [SNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.1.zip "The Turkish Translation of The Stanford Natural Language Inference (SNLI) Corpus") (~44MB, zip).
+* [MultiNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.0.zip "The Turkish Translation of The Multi-Genre NLI Corpus") and [MultiNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.1.zip "The Turkish Translation of The Multi-Genre NLI Corpus") (~41MB, zip)
+
+#### 🤗 HuggingFace datasets
+[Stay tuned!](https://github.com/huggingface/datasets/pull/787)
+
+### 🔬 Reproducibility 
 
 You can find all code, models and samples of the input data [here](https://drive.google.com/drive/folders/1Wo4XzYzVOWDFwFvnfDBzYoNGXYsV_xcz?usp=sharing).  Please feel free to reach out to us if you have any specific questions. 
 
