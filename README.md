@@ -152,7 +152,7 @@ The corresponding pair in the SNLI dataset for comparison.
 
 #### 🔗 Links
 * [SNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.0.zip "The Turkish Translation of The Stanford Natural Language Inference (SNLI) Corpus") and [SNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.1.zip "The Turkish Translation of The Stanford Natural Language Inference (SNLI) Corpus") (~44MB, zip).
-* [MultiNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.0.zip "The Turkish Translation of The Multi-Genre NLI Corpus") and [MultiNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.1.zip "The Turkish Translation of The Multi-Genre NLI Corpus") (~41MB, zip)
+* [MultiNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.0.zip "The Turkish Translation of The Multi-Genre NLI Corpus") and [MultiNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.1.zip "The Turkish Translation of The Multi-Genre NLI Corpus") (~72MB, zip)
 
 #### 🤗 HuggingFace datasets
 [Stay tuned!](https://github.com/huggingface/datasets/pull/787)
