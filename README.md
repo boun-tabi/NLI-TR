@@ -1,7 +1,7 @@
 # 📜 NLI-TR
 The Natural Language Inference in Turkish (NLI-TR) is a set of two large scale datasets that were obtained by translating the foundational NLI corpora ([SNLI](https://nlp.stanford.edu/projects/snli/ "The Stanford Natural Language Inference (SNLI) Corpus") and [MultiNLI](https://www.nyu.edu/projects/bowman/multinli/ "The Multi-Genre NLI Corpus")) using [Amazon Translate](https://aws.amazon.com/tr/translate/ "Amazon Translate NMT service").  The English sentences of the datasets can be accessed from the original corpus by using their common identifier key (pairID).
 
-The characteristics of the datasets can be reviewed in [the arXiv paper](https://arxiv.org/abs/2004.14963) and the details of the NLI task can be reviewed in [the lectures videos of CS224U](https://www.youtube.com/watch?v=M_VPUF9ResU&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20&index=8 "Lectures – NLI | Stanford CS224U: Natural Language Understanding | Spring 2019").  
+The characteristics of the datasets can be reviewed in [here](https://arxiv.org/abs/2004.14963) and the details of the NLI task can be reviewed in [the lectures videos of CS224U](https://www.youtube.com/watch?v=M_VPUF9ResU&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20&index=8 "Lectures – NLI | Stanford CS224U: Natural Language Understanding | Spring 2019").  
 
 ## 📜 SNLI-TR
 The [SNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.0.zip "The Turkish Translation of The Stanford Natural Language Inference (SNLI) Corpus") and [SNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.1.zip "The Turkish Translation of The Stanford Natural Language Inference (SNLI) Corpus") (~44MB, zip) are the Turkish translation (NMT) of the original [SNLI 1.0](https://nlp.stanford.edu/projects/snli/snli_1.0.zip "The Stanford Natural Language Inference (SNLI) Corpus") (~100MB, zip).  The only difference between the version 1.0 and 1.1 is that the latter includes and additional key field (`translation_annotations`) containing the evaluations of translations for some of the examples.
@@ -154,14 +154,19 @@ You can find all code, models and samples of the input data [here](https://drive
 ## ✒ Citation 
 
 >[Emrah Budur](https://scholar.google.com/citations?user=zSNd03UAAAAJ), [Rıza Özçelik](https://www.cmpe.boun.edu.tr/~riza.ozcelik), [Tunga Güngör](https://www.cmpe.boun.edu.tr/~gungort/)  and [Christopher Potts](https://web.stanford.edu/~cgpotts). 2020. 
-Data and Representation for Turkish Natural Language Inference. arXiv preprint arXiv:2004.14963. [[pdf]](https://arxiv.org/abs/2004.14963) [[bib]](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/nli-tr.bib)
+Data and Representation for Turkish Natural Language Inference. To appear in Proceedings of EMNLP. [[pdf]](https://arxiv.org/abs/2004.14963) [[bib]](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/nli-tr.bib)
 
 ```
-@article{NLI-TR-2020-arXiv-2004.14963,
-    Author = {Emrah Budur and R{\i}za \"{O}z\c{c}elik and Tunga G\"{u}ng\"{o}r and Christopher Potts},
-    Title = {Data and Representation for Turkish Natural Language Inference},
-    Year = {2020},
-    Eprint = {arXiv:2004.14963},
+@inproceedings{budur-etal-2020-data,
+    title = "Data and Representation for Turkish Natural Language Inference",
+    author = "Budur, Emrah and
+      \"{O}z\c{c}elik, R{\i}za and
+      G\"{u}ng\"{o}r, Tunga",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics"
 }
 ```
 
