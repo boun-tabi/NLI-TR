@@ -1,3 +1,5 @@
+###### For English click [here](https://github.com/boun-tabi/NLI-TR).
+___
 # 📜 NLI-TR
 NLI-TR veri kümesi [SNLI](https://nlp.stanford.edu/projects/snli/ ) ve [MultiNLI](https://www.nyu.edu/projects/bowman/multinli/) isimli iki büyük ölçekli İngilizce veri kümesinin [Amazon Translate](https://aws.amazon.com/tr/translate/) servisi aracılığıyla Türkçeye tercüme edilerek elde edilen bir veri kümesidir.  Türkçe veri kümesindeki cümlelerin orjinal İngilizce cümlelerine iki veri kümesinde de yer alan ortak anahtar alan (pairID) kullanılarak erişilebilir.
 
@@ -42,7 +44,7 @@ SNLI-TR veri kümesindeki karşılığı:
  
  #### 🏷 SNLI-TR License
  
-SNLI-TR veri kümesi orjinal SNLI veri kümesi ile aynı şekilde [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License") lisansına sahiptir.
+SNLI-TR veri kümesi, orjinal SNLI veri kümesi ile aynı şekilde [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License") lisansına sahiptir.
 
 ***
 
@@ -87,7 +89,7 @@ MultiNLI-TR veri kümesindeki karşılığı:
 
  #### 🏷 MultiNLI-TR License
  
-MultiNLI-TR veri kümesi orjinal MultiNLI veri kümesi ile aynı lisansa sahip olup detaylarına [MultiNLI makalesi](https://www.nyu.edu/projects/bowman/multinli/paper.pdf) üzerinden ulaşılabilir. 
+MultiNLI-TR veri kümesi, orjinal MultiNLI veri kümesi ile aynı lisansa sahip olup detaylarına [MultiNLI makalesi](https://www.nyu.edu/projects/bowman/multinli/paper.pdf) üzerinden ulaşılabilir. 
 
 
 ## :heavy_check_mark: Annotations
