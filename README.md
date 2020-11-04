@@ -1,4 +1,4 @@
-###### Türkçe için [tıklayınız](https://github.com/boun-tabi/NLI-TR/blob/master/README-TR.md).
+###### 🇹🇷 Türkçe için [tıklayınız](https://github.com/boun-tabi/NLI-TR/blob/master/README-TR.md).
 ___
 # 📜 NLI-TR
 The Natural Language Inference in Turkish (NLI-TR) is a set of two large scale datasets that were obtained by translating the foundational NLI corpora ([SNLI](https://nlp.stanford.edu/projects/snli/ "The Stanford Natural Language Inference (SNLI) Corpus") and [MultiNLI](https://www.nyu.edu/projects/bowman/multinli/ "The Multi-Genre NLI Corpus")) using [Amazon Translate](https://aws.amazon.com/tr/translate/ "Amazon Translate NMT service").  The English sentences of the datasets can be accessed from the original corpus by using their common identifier key (pairID).
