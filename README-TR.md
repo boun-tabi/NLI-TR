@@ -156,7 +156,12 @@ Karşılaştırma açısından SNLI veri kümesindeki karşılığı:
 * [MultiNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.0.zip) and [MultiNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.1.zip) (~72MB, zip)
 
 #### 🤗 HuggingFace datasets
-[Stay tuned!](https://github.com/huggingface/datasets/pull/787)
+```py
+from datasets import load_dataset
+
+snli_dataset = load_dataset('nli_tr', 'snli_tr')
+multinli_dataset = load_dataset('nli_tr', 'multinli_tr')
+```
 
 ### 🔬 Tekrarlanabilirlik 
 
