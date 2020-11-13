@@ -157,8 +157,12 @@ The corresponding pair in the SNLI dataset for comparison.
 * [MultiNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.0.zip "The Turkish Translation of The Multi-Genre NLI Corpus") and [MultiNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.1.zip "The Turkish Translation of The Multi-Genre NLI Corpus") (~72MB, zip)
 
 #### 🤗 HuggingFace datasets
-[Stay tuned!](https://github.com/huggingface/datasets/pull/787)
+```py
+from datasets import load_dataset
 
+snli_dataset = load_dataset('nli_tr', 'snli_tr')
+multinli_dataset = load_dataset('nli_tr', 'multinli_tr')
+```
 ### 🔬 Reproducibility 
 
 You can find all code, models and samples of the input data [here](https://drive.google.com/drive/folders/1Wo4XzYzVOWDFwFvnfDBzYoNGXYsV_xcz?usp=sharing).  Please feel free to reach out to us if you have any specific questions. 
