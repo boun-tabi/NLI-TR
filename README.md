@@ -199,6 +199,8 @@ Please feel free to contact [Emrah Budur](mailto:emrah.budur@boun.edu.tr) and
 
 ## 📢 Announcements
 
+💬 (2020-11-18) [Gather.town](https://www.virtualchair.net/events/emnlp2020) session of our paper will be held in Room B (Session 5B) on November 18, 2020 between 18:00-20:00 (UTC) at [EMNLP 2020](https://2020.emnlp.org).  Looking forward to your questions on our paper! 
+
 🎯 (2020-06-01) A new version of our work entitled as _"Data and Representation for Turkish Natural Language Inference"_ was submitted to [EMNLP 2020](https://2020.emnlp.org). 
 
 🐣 (2020-09-14) Our paper has been accepted as a long paper at [EMNLP 2020](https://2020.emnlp.org) 🙂 Grateful to everyone who supported our work along the way 🤗 
