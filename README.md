@@ -160,8 +160,8 @@ The corresponding pair in the SNLI dataset for comparison.
 ```py
 from datasets import load_dataset
 
-snli_dataset = load_dataset('nli_tr', 'snli_tr')
-multinli_dataset = load_dataset('nli_tr', 'multinli_tr')
+snli_tr_dataset = load_dataset('nli_tr', 'snli_tr')
+multinli_tr_dataset = load_dataset('nli_tr', 'multinli_tr')
 ```
 ### 🔬 Reproducibility 
 
