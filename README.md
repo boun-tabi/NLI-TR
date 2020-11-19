@@ -200,7 +200,7 @@ Please feel free to contact [Emrah Budur](mailto:emrah.budur@boun.edu.tr) and
 [Rıza Özçelik](mailto:riza.ozcelik@boun.edu.tr) for any questions, comments and feedbacks.
 
 ## 📢 Announcements
-🎮 (2020-11-18) Word Contest!  Surprise 🎁 is waiting for the lucky winner who is among those replying/retweeting this tweet with the life-saving words inside our Github page 👆 until 23:59 Nov 20, 2020 (UTC)! 
+🎮 (2020-11-18) Word Contest!  Surprise 🎁 is waiting for the lucky winner who is among those replying/retweeting [this tweet](https://twitter.com/ebudur/status/1329417872108621825) with the life-saving words inside our Github page 👆 until 23:59 Nov 20, 2020 (UTC)! 
 
 💬 (2020-11-18) [Gather.town](https://www.virtualchair.net/events/emnlp2020) session of our paper will be held in Room B (Session 5B) on November 18, 2020 between 18:00-20:00 (UTC) at [EMNLP 2020](https://2020.emnlp.org).  Looking forward to your questions on our paper! 
 
