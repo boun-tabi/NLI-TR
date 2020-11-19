@@ -162,6 +162,7 @@ from datasets import load_dataset
 snli_tr_dataset = load_dataset('nli_tr', 'snli_tr')
 multinli_tr_dataset = load_dataset('nli_tr', 'multinli_tr')
 ```
+* Örnek uygulama 👉 [![Colab demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vuKlI8Q5ZlDnf2fhFs_-WnjUhuuyUuCp?usp=sharing) . 
 
 ### 🔬 Tekrarlanabilirlik 
 
