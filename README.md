@@ -163,6 +163,8 @@ from datasets import load_dataset
 snli_tr_dataset = load_dataset('nli_tr', 'snli_tr')
 multinli_tr_dataset = load_dataset('nli_tr', 'multinli_tr')
 ```
+* Demo application 👉 [![Colab demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vuKlI8Q5ZlDnf2fhFs_-WnjUhuuyUuCp?usp=sharing) . 
+
 ### 🔬 Reproducibility 
 
 You can find all code, models and samples of the input data [here](https://drive.google.com/drive/folders/1Wo4XzYzVOWDFwFvnfDBzYoNGXYsV_xcz?usp=sharing).  Please feel free to reach out to us if you have any specific questions. 
