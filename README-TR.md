@@ -198,6 +198,9 @@ Tüm soru, öneri ve geribildirimleriniz için bize ulaşabilirsiniz ([Emrah Bud
 [Rıza Özçelik](mailto:riza.ozcelik@boun.edu.tr)).
 
 ## 📢 Duyurular
+
+🎮 (2020-11-18) Kelime oyunu! Bu sayfaya "hayat kurtaran" bazı ifadeler sakladık🙂  Bu ifadeleri bulup [bu tweet](https://twitter.com/ebudur/status/1329417872108621825) üzerinden alıntı veya cevap vererek paylaşan bir kişiye bir sürprizimiz 🎁 var🙂 Son katılım zamanı: 20 Kasım 20 2020 saat 23:59 (UTC)!
+
 💬 (2020-11-18) MAkalemizin [EMNLP 2020](https://2020.emnlp.org) konferansındaki [Gather.town](https://www.virtualchair.net/events/emnlp2020) oturumu 18 Kasım 2020 tarihinde saat 18:00-20:00 (UTC)'de B Odasında gerçekleştirilecektir.  Sorularınızı merakla bekliyoruz 🙂 
 
 🎯 (2020-06-01) Çalışmamızın _"Data and Representation for Turkish Natural Language Inference"_ başlıklı yeni sürümü [EMNLP 2020](https://2020.emnlp.org) konferansına gönderildi. 
