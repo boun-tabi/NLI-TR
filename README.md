@@ -22,8 +22,7 @@ An example from SNLI:
         "sentence1_parse": "(ROOT (NP (NP (DT A) (JJ medical) (NN worker)) (VP (VBG wearing) (NP (NP (DT a) (NN mask)) (PP (IN in) (NP (DT the) (NN hospital))))) (. .)))",
         "sentence2": "A woman is in the hosptial working.",
         "sentence2_binary_parse": "( ( A woman ) ( ( is ( in ( the ( hosptial working ) ) ) ) . ) )",
-        "sentence2_parse": "(ROOT (S (NP (DT A) (NN woman)) (VP (VBZ is) (PP (IN in) (NP (DT the) (JJ hosptial) (NN working)))) (. .)))",
-        "promptID": 90816
+        "sentence2_parse": "(ROOT (S (NP (DT A) (NN woman)) (VP (VBZ is) (PP (IN in) (NP (DT the) (JJ hosptial) (NN working)))) (. .)))"
 }
 </pre>
 
@@ -37,8 +36,7 @@ The corresponding Turkish translation in SNLI-TR:
         "gold_label": "neutral",
         "pairID": "4688994030.jpg#3r1n",
         "sentence1": "Hastanede maske takan bir sağlık görevlisi.",
-        "sentence2": "Hastanede çalışan bir kadın var.",
-        "promptID": 90816
+        "sentence2": "Hastanede çalışan bir kadın var."
 }
 </pre>
  
