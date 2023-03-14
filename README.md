@@ -6,7 +6,7 @@ The Natural Language Inference in Turkish (NLI-TR) is a set of two large scale d
 The characteristics of the datasets can be reviewed in [here](https://arxiv.org/abs/2004.14963) and the details of the NLI task can be reviewed in [the lectures videos of CS224U](https://www.youtube.com/watch?v=M_VPUF9ResU&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20&index=8 "Lectures – NLI | Stanford CS224U: Natural Language Understanding | Spring 2019").  
 
 ## 📜 SNLI-TR
-The [SNLI-TR 1.0](#-download-nli-tr) and [SNLI-TR 1.1](#-download-nli-tr) (~44MB, zip)  are the Turkish translation (NMT) of the original [SNLI 1.0](https://nlp.stanford.edu/projects/snli/snli_1.0.zip "The Stanford Natural Language Inference (SNLI) Corpus") (~100MB, zip).  The only difference between the version 1.0 and 1.1 is that the latter includes and additional key field (`translation_annotations`) containing the evaluations of translations for some of the examples.
+The [SNLI-TR 1.0](#-download-nli-tr) and [SNLI-TR 1.1](#-download-nli-tr) (~44MB, zip)  are the Turkish translation (NMT) of the original [SNLI 1.0](https://nlp.stanford.edu/projects/snli/snli_1.0.zip "The Stanford Natural Language Inference (SNLI) Corpus") (~100MB, zip).  The only difference between the version 1.0 and 1.1 is that the latter includes an additional key field (`translation_annotations`) containing the evaluations of translations for some of the examples.
 
 An example from SNLI:
 <pre>
