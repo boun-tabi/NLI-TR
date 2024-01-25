@@ -150,8 +150,8 @@ Karşılaştırma açısından SNLI veri kümesindeki karşılığı:
 ### 📖 NLI-TR indir
 
 #### 🔗 Linkler
-* [SNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.0.zip) and [SNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/snli_tr_1.1.zip) (~44MB, zip).
-* [MultiNLI-TR 1.0](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.0.zip) and [MultiNLI-TR 1.1](https://tabilab.cmpe.boun.edu.tr/datasets/nli_datasets/multinli_tr_1.1.zip) (~72MB, zip)
+* [SNLI-TR 1.0](https://nli-tr.s3.eu-central-1.amazonaws.com/snli_tr_1.0.zip) and [SNLI-TR 1.1](https://nli-tr.s3.eu-central-1.amazonaws.com/snli_tr_1.1.zip) (~44MB, zip).
+* [MultiNLI-TR 1.0](https://nli-tr.s3.eu-central-1.amazonaws.com/multinli_tr_1.0.zip) and [MultiNLI-TR 1.1](https://nli-tr.s3.eu-central-1.amazonaws.com/multinli_tr_1.1.zip) (~72MB, zip)
 
 #### 🤗 HuggingFace datasets
 ```py
